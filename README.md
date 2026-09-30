@@ -6,7 +6,7 @@ ERTÜRK, [HAKANLAR dizisinin](https://github.com/ozelturktarkan/Windows-10-11-HA
 
 ## ISO indirme durumu
 
-**ISO bağlantısı henüz yayımlanmadı.** Büyük ISO dosyasını proje sahibi Internet Archive'e yükleyecek; doğrulandıktan sonra bağlantısı eklenecek. GitHub'daki kaynak ZIP/TAR dosyaları Windows kurulum ISO'su değildir. [Küçük dosyalar ve kaynak paketi](https://github.com/ozelturktarkan/Windows-10-ERTURK/releases/tag/v1.0-r2).
+**[Windows 10 ERTÜRK.iso indir](https://archive.org/download/windows-10-erturk/Windows%2010%20ERT%C3%9CRK.iso)** · [Archive sayfası](https://archive.org/details/windows-10-erturk). Archive boyut, SHA-1 ve MD5 değerleri son r2 ISO ile eşleşti; indirme adresi HTTP üzerinden doğrulandı. Archive kopyasının tamamı yeniden indirilip SHA-256 hesaplanmadı. [Doğrulama kaydı](Archive-Dogrulama.json). GitHub'daki kaynak ZIP/TAR dosyaları Windows kurulum ISO'su değildir. [Küçük dosyalar ve kaynak paketi](https://github.com/ozelturktarkan/Windows-10-ERTURK/releases/tag/v1.0-r2).
 
 | Özellik | Değer |
 | --- | --- |

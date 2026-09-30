@@ -14,12 +14,14 @@
   "visual_profile": "2026-09-30-four-effects",
   "audio": "r1 VM audible after HDA/output configuration and user troubleshooter; audio binaries/services preserved in r2",
   "fresh_install_test": "User reports installation completed without problems; assistant read-only verification passed; see Kurulum-Kontrol.json for scope and setup log notes",
-  "distribution_status": "r2 small-source publication; ISO download pending",
+  "distribution_status": "Sources and ISO download published",
   "validation_report": "Kurulum-Kontrol.json",
   "release_tag": "v1.0-r2",
   "date": "2026-09-30",
   "repository": "https://github.com/ozelturktarkan/Windows-10-ERTURK",
-  "archive_url": null,
-  "iso_download_status": "Awaiting project owner upload; ISO is not hosted on GitHub.",
-  "bit_identical_rebuild_verified": false
+  "archive_url": "https://archive.org/details/windows-10-erturk",
+  "iso_download_status": "Available; Archive size, SHA-1 and MD5 match final r2 ISO; HTTP HEAD succeeded.",
+  "bit_identical_rebuild_verified": false,
+  "iso_download_url": "https://archive.org/download/windows-10-erturk/Windows%2010%20ERT%C3%9CRK.iso",
+  "archive_verification": "Archive-Dogrulama.json"
 }

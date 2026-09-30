@@ -1,0 +1,30 @@
+{
+  "checked_at": "2026-10-01T02:49:20.114416+03:00",
+  "item_url": "https://archive.org/details/windows-10-erturk",
+  "metadata_url": "https://archive.org/metadata/windows-10-erturk",
+  "iso_download_url": "https://archive.org/download/windows-10-erturk/Windows%2010%20ERT%C3%9CRK.iso",
+  "filename": "Windows 10 ERTÜRK.iso",
+  "local_expected": {
+    "iso_bytes": 4576935936,
+    "sha256": "5eb35124b8847124ee308326910c1868b4f28cc7e35466a6947279bcee6821d4",
+    "sha1": "6f8de4c81fb3c740d52ec4163a9cfbbeacfe8b7a",
+    "md5": "015044a550bde39c1f906ae7d7ed6773"
+  },
+  "archive_metadata": {
+    "size": "4576935936",
+    "sha1": "6f8de4c81fb3c740d52ec4163a9cfbbeacfe8b7a",
+    "md5": "015044a550bde39c1f906ae7d7ed6773",
+    "sha256": null
+  },
+  "size_match": true,
+  "sha1_match": true,
+  "md5_match": true,
+  "http": {
+    "status": 200,
+    "content_length": 4576935936,
+    "method": "HEAD"
+  },
+  "full_archive_download_performed": false,
+  "archive_sha256_recomputed": false,
+  "scope": "Archive metadata size/SHA-1/MD5 and HTTP access match the final customized ERTURK r2 ISO. This is not Microsoft source ISO authentication or a malware scan."
+}
