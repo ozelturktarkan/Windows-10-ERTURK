@@ -1,0 +1,26 @@
+{
+  "name": "Windows 10 ERTÜRK",
+  "revision": "r2-magazasiz",
+  "base": "Windows 10 Pro 1909 x64 tr-TR",
+  "build": "18363.959",
+  "source_wim_sha256": "d100034418028a3d6ddd01aacfd90fe5a1ae1253381b53062b8557ea7f13a1e9",
+  "source_wim_bytes": 4390834000,
+  "source_pro_index": 4,
+  "processed_pro_index": 1,
+  "ntlite_version": "2026.09.12209.0",
+  "ntlite_exe_sha256": "67ec85023047388a650c4cc89266424b8c36d1f1810e51fdcad1bd1617ad5a5a",
+  "requested_preset": "NTLite-ERTURK.xml",
+  "applied_preset": [
+    "NTLite-ERTURK-r1-Uygulanan.xml",
+    "NTLite-ERTURK-r2-Uygulanan-Fark.xml"
+  ],
+  "status": "r2 image/ISO verified; user installation reported successful; assistant read-only installed-state checks passed",
+  "store_online_test": "r1 user test failed; user requested Store removal",
+  "asset_source": "same cursor and wallpaper as ALP ER TUNGA",
+  "applied_removals_r2": [
+    "microsoft.windowsstore",
+    "microsoft.storepurchaseapp"
+  ],
+  "processed_wim_sha256": "efcb6bbc64c27e5f029c6ad3ef0b4e990f627e51c8b0ebf768879053e786c285",
+  "visual_profile": "2026-09-30-four-effects"
+}

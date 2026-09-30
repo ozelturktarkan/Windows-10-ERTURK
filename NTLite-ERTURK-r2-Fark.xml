@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Preset xmlns="urn:schemas-nliteos-com:pn.v1">
+  <Version>1.1</Version>
+  <RemoveComponents AppRemovalMode="DISM">
+    <c>microsoft.windowsstore</c>
+    <c>microsoft.storepurchaseapp</c>
+  </RemoveComponents>
+  <Compatibility>
+    <ComponentFeatures>
+      <Feature enabled="no">WindowsStore</Feature>
+      <Feature enabled="yes">AppxSupport</Feature>
+      <Feature enabled="yes">Recommended-All</Feature>
+      <Feature enabled="yes">OOBE</Feature>
+      <Feature enabled="yes">ServicingStack</Feature>
+    </ComponentFeatures>
+  </Compatibility>
+</Preset>

@@ -1,0 +1,12 @@
+{
+  "vm": "Win10-ERTURK",
+  "ram_mib": 4096,
+  "audio_controller": "HDA",
+  "audio_codec": "STAC9221",
+  "audio_out": true,
+  "audio_in": false,
+  "user_report": "Sound audible after VM audio change and Windows troubleshooter",
+  "single_root_cause_confirmed": false,
+  "iso_audio_modifications": "none",
+  "time": "2026-09-30T21:57:37.8720995+03:00"
+}

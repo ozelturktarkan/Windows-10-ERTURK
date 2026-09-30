@@ -1,0 +1,106 @@
+{
+  "time": "2026-09-30T23:18:33.731251+03:00",
+  "method": "read-only inspection of running VDI; possibly unflushed disk state",
+  "user_report": "User reports installation completed with no problem",
+  "live_application_launch_tests": "not performed by assistant",
+  "vm_memory_mib": 4096,
+  "audio_output_enabled": true,
+  "visual_desktop_observed": true,
+  "installed_os": {
+    "CurrentBuildNumber": "18363",
+    "UBR": 959,
+    "EditionID": "Professional",
+    "ReleaseId": "1909"
+  },
+  "erturk_profile": {
+    "ProfileId": "ERTURK-1909-x64-r2",
+    "DisplayName": "Windows 10 ERTÜRK",
+    "MachineComplete": 1
+  },
+  "store_registration_absent": {
+    "Microsoft.WindowsStore": true,
+    "Microsoft.StorePurchaseApp": true
+  },
+  "retained_app_registration": {
+    "Microsoft.WindowsCalculator": true,
+    "Microsoft.Windows.Photos": true,
+    "Microsoft.WindowsSoundRecorder": true
+  },
+  "service_start_values": {
+    "Audiosrv": 2,
+    "AudioEndpointBuilder": 2,
+    "WSearch": 2,
+    "AppXSvc": 3,
+    "MpsSvc": 2
+  },
+  "installed_payload_hash_matches": {
+    "Windows/Cursors/ERTURK/turk.ani": true,
+    "Windows/Resources/Themes/ERTURK.theme": true,
+    "Windows/Setup/ERTURK/Apply-Machine.ps1": true,
+    "Windows/Setup/ERTURK/Initialize-User.ps1": true,
+    "Windows/Setup/ERTURK/Set-VisualEffects.ps1": true,
+    "Windows/Web/Wallpaper/ERTURK/ERTURK.jpg": true
+  },
+  "machine_log_complete": true,
+  "user_checks": [
+    {
+      "visual_revision": "r2",
+      "visual_passed": true,
+      "visual_checks": {
+        "TooltipAnimation": true,
+        "TooltipFade": true,
+        "ComboBoxAnimation": true,
+        "ClientAreaAnimation": true,
+        "CursorShadow": true,
+        "ListBoxSmoothScrolling": true,
+        "SelectionFade": true,
+        "MenuAnimation": true,
+        "MenuFade": true,
+        "DropShadow": true,
+        "FontSmoothing": true,
+        "FontSmoothingType": true,
+        "DragFullWindows": true,
+        "MinAnimation": true,
+        "VisualFXSetting": true,
+        "TaskbarAnimations": true,
+        "ListviewShadow": true,
+        "ListviewAlphaSelect": true,
+        "IconsOnly": true,
+        "AlwaysHibernateThumbnails": true,
+        "EnableAeroPeek": true,
+        "EnableTransparency": true
+      },
+      "first_logon_complete": true
+    }
+  ],
+  "setup_error_log_summary": {
+    "Windows/Panther/setuperr.log": {
+      "nonempty_lines": 2,
+      "custom_script_failure_lines": []
+    },
+    "Windows/Panther/UnattendGC/setuperr.log": {
+      "nonempty_lines": 1,
+      "custom_script_failure_lines": []
+    }
+  },
+  "passed": true,
+  "setup_log_notes": [
+    {
+      "component": "IBS",
+      "code": "0x00000490",
+      "event": "MultiEdition blackboard key removal failed"
+    },
+    {
+      "component": "CBS",
+      "code": "0x80070002",
+      "event": "Failed to load Session:4396_8445750"
+    },
+    {
+      "component": "msoobe LocalUser Plugin",
+      "code": "0x80070490",
+      "event": "COMMIT failed"
+    }
+  ],
+  "setup_log_assessment": "These entries did not prevent reaching the desktop or completing the ERTURK machine/first-logon scripts. Their root causes were not established; no claim of error-free setup logs.",
+  "scope": "User reports no issues after installation. Assistant inspected the desktop, VM configuration and persisted installation records read-only; did not replay application launches, audio listening or a stress test."
+}

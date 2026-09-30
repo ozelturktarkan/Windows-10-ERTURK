@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Preset xmlns="urn:schemas-nliteos-com:pn.v1">
+  <Version>1.1</Version>
+  <RemoveComponents AppRemovalMode="DISM">
+    <c>microsoft.storepurchaseapp 'Store Experience Host'</c>
+    <c>microsoft.windowsstore 'Microsoft Store'</c>
+  </RemoveComponents>
+  <Compatibility>
+    <ComponentFeatures>
+      <Feature enabled="no">NetworkDiscovery</Feature>
+      <Feature enabled="no">Battle.net</Feature>
+      <Feature enabled="no">VSS</Feature>
+      <Feature enabled="no">YubiKey</Feature>
+      <Feature enabled="no">Bluetooth</Feature>
+      <Feature enabled="no">CapFrameX</Feature>
+      <Feature enabled="no">Discord</Feature>
+      <Feature enabled="no">Docker</Feature>
+      <Feature enabled="no">Recommended-Tablet</Feature>
+      <Feature enabled="no">FileSharing</Feature>
+      <Feature enabled="no">EAC</Feature>
+      <Feature enabled="no">SnippingTool</Feature>
+      <Feature enabled="no">LegacyGames</Feature>
+      <Feature enabled="no">NightLight</Feature>
+      <Feature enabled="no">Hyper-V</Feature>
+      <Feature enabled="no">iCloud</Feature>
+      <Feature enabled="no">USBCamera</Feature>
+      <Feature enabled="no">Kaspersky</Feature>
+      <Feature enabled="yes">OOBE</Feature>
+      <Feature enabled="no">ManualSetup</Feature>
+      <Feature enabled="no">OfficeSupport</Feature>
+      <Feature enabled="no">WindowsStore</Feature>
+      <Feature enabled="yes">AppxSupport</Feature>
+      <Feature enabled="no">Netflix</Feature>
+      <Feature enabled="no">NvidiaSetup</Feature>
+      <Feature enabled="no">OneNote</Feature>
+      <Feature enabled="no">SamsungSwitch</Feature>
+      <Feature enabled="no">VPN</Feature>
+      <Feature enabled="yes">ServicingStack</Feature>
+      <Feature enabled="no">ShellSearchSupport</Feature>
+      <Feature enabled="yes">SFC</Feature>
+      <Feature enabled="no">DefaultFonts</Feature>
+      <Feature enabled="no">Spotify</Feature>
+      <Feature enabled="no">Scanning</Feature>
+      <Feature enabled="no">TeamViewer</Feature>
+      <Feature enabled="no">TpmSecureBoot</Feature>
+      <Feature enabled="no">USB</Feature>
+      <Feature enabled="no">USBModem</Feature>
+      <Feature enabled="no">AppGuard</Feature>
+      <Feature enabled="no">RDPServer</Feature>
+      <Feature enabled="no">VideoPlayback</Feature>
+      <Feature enabled="no">VisualStudio</Feature>
+      <Feature enabled="no">Activation</Feature>
+      <Feature enabled="no">WFC</Feature>
+      <Feature enabled="no">WindowsUpdate</Feature>
+      <Feature enabled="no">WindowsSecurity</Feature>
+      <Feature enabled="no">SafeMode</Feature>
+      <Feature enabled="yes">WinSetup</Feature>
+      <Feature enabled="no">WLAN</Feature>
+      <Feature enabled="no">XboxApp</Feature>
+      <Feature enabled="no">Printing</Feature>
+      <Feature enabled="no">HostRefresh</Feature>
+      <Feature enabled="yes">Recommended-All</Feature>
+    </ComponentFeatures>
+    <MachineDrivers>
+      <Machine enabled="no">HostMachine</Machine>
+      <Machine enabled="no">Hyper-V VM</Machine>
+      <Machine enabled="no">Parallels VM</Machine>
+      <Machine enabled="no">Virtual Box VM</Machine>
+      <Machine enabled="no">VMware VM</Machine>
+    </MachineDrivers>
+  </Compatibility>
+</Preset>
