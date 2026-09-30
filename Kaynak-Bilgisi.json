@@ -22,5 +22,18 @@
     "microsoft.storepurchaseapp"
   ],
   "processed_wim_sha256": "efcb6bbc64c27e5f029c6ad3ef0b4e990f627e51c8b0ebf768879053e786c285",
-  "visual_profile": "2026-09-30-four-effects"
+  "visual_profile": "2026-09-30-four-effects",
+  "source_iso": {
+    "filename": "Win10_1909_Turkish_x64.iso",
+    "bytes": 5239048192,
+    "computed_at": "2026-10-01T02:28:17.806609+03:00",
+    "sha256": "957ca7887c596027762a395be12699ce541b38c6de990435fdd607849803e0aa",
+    "sha1": "7b7afabcf751855c0b5aab40106ade9a98242e5f",
+    "md5": "8155a8cf62ee3a62f0e4328792781949"
+  },
+  "source_download_url": "https://archive.org/details/win-10-1909-turkish-x-64",
+  "microsoft_sha256_verified": false,
+  "microsoft_verification_status": "reference_not_located",
+  "source_iso_embedded_wim_matches_production": true,
+  "source_verification_report": "KAYNAK-ISOLAR.json"
 }

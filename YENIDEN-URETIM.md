@@ -5,7 +5,7 @@ Bu tarif kurulum medyası hazırlamak içindir; betikleri günlük kullandığı
 ## Kaynak ve araçlar
 
 - Türkçe Windows 10 Pro 1909 x64, **18363.959** kaynağı. Başlangıç çoklu sürüm WIM'inde Pro indeksi 4'tür; kendi kaynağınızda adı/mimariyi doğrulayın, indeks numarasına körlemesine güvenmeyin.
-- Kayıtlı temiz `install.wim`: 4.390.834.000 bayt, SHA-256 `d100034418028a3d6ddd01aacfd90fe5a1ae1253381b53062b8557ea7f13a1e9`. Başlangıç ISO'sunun adresi ve hash'i ayrıca doğrulanmadı.
+- Kayıtlı temiz `install.wim`: 4.390.834.000 bayt, SHA-256 `d100034418028a3d6ddd01aacfd90fe5a1ae1253381b53062b8557ea7f13a1e9`. [Başlangıç ISO'sunun adresi/hashleri ve denetim kapsamı](KAYNAK-ISOLAR.md): Archive metaverisi ve gömülü WIM eşleşti; resmî Microsoft referans doğrulaması tamamlanamadı.
 - Üretimde **NTLite 2026.09.12209.0** kullanıldı; ücretli seçenekler uygun lisans gerektirir. NTLite programı/lisansı depoda yoktur.
 - ISO oluşturmak için Python 3.11+ ve `requirements.txt` içindeki **pycdlib 1.14.0**.
 - Temiz kaynak kopyası ve çıktı ISO'su için yeterli boş alan; ayrı çıktı dizini kullanın.

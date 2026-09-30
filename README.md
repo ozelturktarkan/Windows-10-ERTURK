@@ -35,7 +35,7 @@ Uygun NTLite lisansıyla kendi Türkçe Windows 10 Pro 1909 x64 kaynağınız ü
 
 [Birleşik XML](NTLite-ERTURK.xml) inceleme ve tek geçişli hazırlama için sunulur; temiz kaynakta tek geçiş yolu ayrıca denenmedi. XML tek başına tema ve ilk oturum ayarlarını içermez. Ayrı bir temiz ortamda uçtan uca yeniden üretim karşılaştırması yapılmadı; **bayt bayt aynı ISO/hash garantisi verilmez**.
 
-Kaynak WIM 18363.959 yapısıdır; temiz kaynakta Pro indeksi 4, yayımlanan sonuçta 1'dir. Temiz ve işlenmiş WIM özetleri [Kaynak-Bilgisi.json](Kaynak-Bilgisi.json) içindedir. Başlangıç 1909 ISO'sunun indirme adresi ve ISO hash'i bu üretim kaydında doğrulanmadı; 1607 kaynak bağlantısı 1909 kaynağı olarak gösterilmez.
+Kaynak WIM 18363.959 yapısıdır; temiz kaynakta Pro indeksi 4, yayımlanan sonuçta 1'dir. Temiz ve işlenmiş WIM özetleri [Kaynak-Bilgisi.json](Kaynak-Bilgisi.json) içindedir. [Başlangıç 1909 ISO'sunun indirme adresi ve hesaplanan hashleri](KAYNAK-ISOLAR.md) eklendi. Boyut/SHA-1/MD5 Archive metaverisiyle, ISO içindeki WIM de üretim kaynağıyla eşleşti. **Resmî Microsoft referansı bulunamadığından Microsoft özgünlüğü bağımsız doğrulanmış değildir.**
 
 ## Neler değişti?
 
