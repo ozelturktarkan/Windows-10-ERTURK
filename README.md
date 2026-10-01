@@ -1,5 +1,7 @@
 # Windows 10 ERTÜRK
 
+> **Tüm diziyi keşfedin:** Windows 10 ve Windows 11 profillerini, donanım hedeflerini ve yayın durumlarını birlikte görmek için [Windows 10/11 HAKANLAR Dizesi ana reposunu ziyaret edin](https://github.com/ozelturktarkan/Windows-10-11-HAKANLAR-Dizesi).
+
 **Türkçe Windows 10 Pro 1909 · 64 bit · r2 Mağazasız**
 
 ERTÜRK, [HAKANLAR dizisinin](https://github.com/ozelturktarkan/Windows-10-11-HAKANLAR-Dizesi) 1909 tabanlı sürümüdür. Hedef donanım **8 GB ve üzeri RAM + SSD**; kurulum testi **4 GB RAM'li sanal makinede** yapıldı. Bu depo NTLite XML'lerini, kurulum betiklerini, kişiselleştirme dosyalarını, test kayıtlarını ve ISO hashlerini paylaşır.
